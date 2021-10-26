@@ -3,6 +3,18 @@
     margin: 0px;
 }
 
+#intro {
+    background-image: url(../pictures/bamboo.jpg);
+    height: 500px;
+}
+
+#jheader {
+    color: white;
+    float: right;
+}
+
+
+
 .footer {
     background-color: #E0F1F2;
     padding: 1px 1px;
