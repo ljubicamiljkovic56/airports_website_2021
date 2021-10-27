@@ -13,7 +13,9 @@
     float: right;
 }
 
-
+#footer-menu {
+    background-color: #03849e;
+}
 
 .footer {
     background-color: #E0F1F2;
