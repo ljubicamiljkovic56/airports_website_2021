@@ -11,6 +11,7 @@
     background-position: center;
 }
 
+
 #jheader {
     color: white;
     float: right;
@@ -48,6 +49,7 @@
   
 #footer-menu {
     background-color: #03849e;
+    border-radius: 5px;
 }
 
 .footer {
@@ -56,6 +58,7 @@
     left: 0;
     bottom: 0;
     width: 100%;
+    border-radius: 5px;
 }
 
 .footer-text {
