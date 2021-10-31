@@ -43,7 +43,7 @@ main {
     color: black;
 }
 
-#img1, #img2 {
+#img1, #img2, #img3 {
     width: 40%;
     border-radius: 5px;
 }
@@ -59,8 +59,11 @@ main h3 {
 
 #tekst1 {
     float: right;
-    text-align: left;
+    text-align: justify;
     width: 60%;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 50px;
 }
 
 #footer-menu {
