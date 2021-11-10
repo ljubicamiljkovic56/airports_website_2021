@@ -23,6 +23,20 @@
     margin-left: 3%;
 }
 
+.button1, .button2 {
+    height: 120px;
+    width: 250px;
+    background-color: #A8C9EB;
+}
+
+.pb1 {
+    font-style: oblique;
+    color: azure;
+}
+
+.pb2 {
+    font-style: normal;
+}
 
 #footer-menu {
     background-color: #03849e;
